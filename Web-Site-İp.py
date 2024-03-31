@@ -27,4 +27,3 @@ def main_menu():
         print_red("\nGeçersiz seçenek! Lütfen 1'i seçin.")
 
 main_menu()
-
